@@ -1,0 +1,21 @@
+*.bin
+*.hex
+*.elf
+*.map
+*.o
+*.a
+.vscode/
+.idea/
+*.launch
+build/
+debug/
+Release/
+.DS_Store
+.metadata
+.settings
+Release/
+Debug/
+# STM32CubeIDE
+.metadata/
+.settings/
+*.ld
